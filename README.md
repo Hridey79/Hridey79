@@ -12,10 +12,17 @@ Check out some of my latest projects on my [repositories](https://github.com/Hri
 
 ## 📈 GitHub Stats
 
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hridey79&show_icons=true&theme=tokyonight" width="400" height="300" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hridey79&theme=tokyonight" width="400" height="300" />
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Hridey79&show_icons=true&theme=tokyonight" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hridey79&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
+
 
 
 ## 🤝 Let's Connect!
