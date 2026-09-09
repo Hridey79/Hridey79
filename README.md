@@ -12,18 +12,10 @@ Check out some of my latest projects on my [repositories](https://github.com/Hri
 
 ## 📈 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Hridey79&show_icons=true&theme=tokyonight" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hridey79&theme=tokyonight" />
-    </td>
-  </tr>
-</table>
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hridey79&show_icons=true&theme=tokyonight" alt="Hridey's GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hridey79&theme=tokyonight" alt="GitHub Streak" width="49%" />
+</p>
 
 ## 🤝 Let's Connect!
 - 💼 [LinkedIn](https://linkedin.com/in/hridey-verma-67633a225)
