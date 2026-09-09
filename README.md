@@ -19,7 +19,7 @@ Check out some of my latest projects on my
 
 <p align="center">
   <img
-    src="[https://github-readme-stats.vercel.app/api?username=Hridey79&show_icons=true&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com/?user=Hridey79&theme=tokyonight)"
+    src="https://github-readme-stats.vercel.app/api?username=Hridey79&show_icons=true&theme=tokyonight&hide_border=true"
     alt="Hridey's GitHub Stats"
     width="49%"
   />
