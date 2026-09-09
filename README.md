@@ -19,14 +19,12 @@ Check out some of my latest projects on my
 
 <p align="center">
   <img
-  src="https://github-stats-extended.vercel.app/api?username=Hridey79&show_icons=true&theme=tokyonight&hide_border=true"
-  alt="Hridey's GitHub Stats"
-  width="49%"
-/>
+    src="https://github-stats-extended.vercel.app/api?username=Hridey79&show_icons=true&theme=tokyonight&hide_border=true&card_width=500"
+    alt="Hridey's GitHub Stats"
+  />
   <img
     src="https://streak-stats.demolab.com/?user=Hridey79&theme=tokyonight&hide_border=true"
     alt="Hridey's GitHub Streak"
-    width="49%"
   />
 </p>
 
